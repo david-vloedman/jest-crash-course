@@ -1,0 +1,22 @@
+{
+  "name": "jest-crash-course",
+  "version": "1.0.0",
+  "description": "A tutorial for unit testing with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-vloedman/jest-crash-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-vloedman/jest-crash-course/issues"
+  },
+  "homepage": "https://github.com/david-vloedman/jest-crash-course#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
